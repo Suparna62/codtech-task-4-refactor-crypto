@@ -53,7 +53,7 @@ The original project was improved with the following enhancements:
 
 ## 📄 Project PDF
 
-👉 [Click to view full-page screenshot (PDF)](./crypto-tracker-screenshot.pdf)
+👉 [Click to view full-page screenshot (PDF)](./crypto-tracker-screenshot.pdf.pdf)
 
 
 ---
