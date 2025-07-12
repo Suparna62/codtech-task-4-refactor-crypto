@@ -51,7 +51,10 @@ The original project was improved with the following enhancements:
 
 ---
 
-http://localhost:3000/codtech-task-4-refactor-crypto
+## 📄 Project PDF
+
+👉 [Click here to viePDFw the ](file:///C:/Users/HP/OneDrive/Pictures/Crypto%20Tracker.pdf)
+
 
 ---
 
