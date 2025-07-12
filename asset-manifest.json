@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codtech-task-4-refactor-crypto/static/css/main.a748f5aa.css",
+    "main.js": "/codtech-task-4-refactor-crypto/static/js/main.72c32b9f.js",
+    "static/js/453.84cb6b66.chunk.js": "/codtech-task-4-refactor-crypto/static/js/453.84cb6b66.chunk.js",
+    "index.html": "/codtech-task-4-refactor-crypto/index.html",
+    "main.a748f5aa.css.map": "/codtech-task-4-refactor-crypto/static/css/main.a748f5aa.css.map",
+    "main.72c32b9f.js.map": "/codtech-task-4-refactor-crypto/static/js/main.72c32b9f.js.map",
+    "453.84cb6b66.chunk.js.map": "/codtech-task-4-refactor-crypto/static/js/453.84cb6b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a748f5aa.css",
+    "static/js/main.72c32b9f.js"
+  ]
+}
