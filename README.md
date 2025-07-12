@@ -53,8 +53,6 @@ The original project was improved with the following enhancements:
 
 http://localhost:3000/codtech-task-4-refactor-crypto
 
-> *(Replace `screenshot.png` with your actual image file if uploaded)*
-
 ---
 
 
