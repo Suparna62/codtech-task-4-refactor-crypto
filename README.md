@@ -47,7 +47,7 @@ The original project was improved with the following enhancements:
 
 ## 🌐 Live Project
 
-👉 **[Click to View Live Site](https://suparna62.github.io/codtech-task-4-refactor-crypto/)**
+🔗 [Click here to view the live site](https://suparna62.github.io/codtech-task-4-refactor-crypto/)
 
 ---
 
