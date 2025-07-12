@@ -53,7 +53,7 @@ The original project was improved with the following enhancements:
 
 ## 📄 Project PDF
 
-👉 [Click here to view the PDF](file:///C:/Users/HP/OneDrive/Pictures/Crypto%20Tracker.pdf)
+👉 [Click here to view the PDF](./file:///C:/Users/HP/OneDrive/Pictures/Crypto%20Tracker.pdf)
 
 ---
 
